@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 21225220101
+# Name: Sreejaa.R
+# Date:13-05-26
 
 
 # AIM:
